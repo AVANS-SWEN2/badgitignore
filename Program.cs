@@ -8,6 +8,7 @@ namespace badgitignore
         {
             Console.WriteLine("Hello World!");
             Console.WriteLine(new dummylib.Class1().DummyData());
+            Console.WriteLine("feature1")
         }
     }
 }
