@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "badgitignore/1.0.0": {
+        "dependencies": {
+          "dummylib": "1.0.0"
+        },
+        "runtime": {
+          "badgitignore.dll": {}
+        }
+      },
+      "dummylib/1.0.0": {
+        "runtime": {
+          "dummylib.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "badgitignore/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "dummylib/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
